@@ -11,5 +11,14 @@
     * Model Packages
     * Predicting Part-of-speech Tags
     * Predicting Syntactic Dependencies
-    * [Chapter-1](#Chapter-1 "Goto Chapter-1")
-    * 
+    * Dependency label scheme
+    * Predicting Named Entities
+    * spacy.explain method
+    
+3. Rule-based matching
+    * Why not just regular expressions?
+    * Match patterns
+    * Using the Matcher
+    * Matching lexical attributes
+    * Matching other token attributes
+    * Using operators and quantifiers
