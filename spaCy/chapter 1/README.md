@@ -1,13 +1,13 @@
 # Chapter 1
 
-1. Introduction of SpaCy
+1. __Introduction of SpaCy__
     * Nlp object
     * Doc object
     * Token object
     * Span object
     * Lexical Attributes
   
-2. Statistical Models
+2. __Statistical Models__
     * Model Packages
     * Predicting Part-of-speech Tags
     * Predicting Syntactic Dependencies
@@ -15,7 +15,7 @@
     * Predicting Named Entities
     * spacy.explain method
     
-3. Rule-based matching
+3. __Rule-based matching__
     * Why not just regular expressions?
     * Match patterns
     * Using the Matcher
