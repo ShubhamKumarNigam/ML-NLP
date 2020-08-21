@@ -1,9 +1,7 @@
-# Chapter 2
-1. Data Structues (1)
-    * H
-    * 
-    * 
-    * 
+# Chapter 2 Large Scale Data Analysis
+1. Data Structues (1) Vocab, Lexemes and StringStore
+    * Shared vocab and string store
+    * Lexemes: entries in the vocabulary
 
 2. Strings to Hashes
     * L
